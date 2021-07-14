@@ -52,6 +52,7 @@ def like_pet(request, pk):
 
 
 def create_pet(request):
+    pet = Pet()
     if request.method == 'POST':
         form = CreatePetForm(request.POST, request.FILES)
         if form.is_valid():
