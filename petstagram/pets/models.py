@@ -1,4 +1,7 @@
+from django.contrib.auth import get_user_model
 from django.db import models
+
+UserModel = get_user_model()
 
 
 class Pet(models.Model):
@@ -26,6 +29,19 @@ class Pet(models.Model):
         upload_to='pets',
     )
 
+    user = models.ForeignKey(
+        UserModel,
+        on_delete=models.CASCADE,
+    )
+
 
 class Like(models.Model):
-    pet = models.ForeignKey(Pet, on_delete=models.CASCADE)
+    pet = models.ForeignKey(
+        Pet,
+        on_delete=models.CASCADE
+    )
+
+    user = models.ForeignKey(
+        UserModel,
+        on_delete=models.CASCADE,
+    )
