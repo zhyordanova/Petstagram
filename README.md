@@ -58,8 +58,6 @@ Throughout the whole module we are going to be creating a **complete Django proj
 
 Follow us:
 
-© SoftUni Copyrighted document. Unauthorized copy, reproduction or use is not permitted.
-
 ![Aspose Words 9b75d108-2b97-460b-8a8b-a95e50193176 007](https://user-images.githubusercontent.com/66780885/127973631-3664e887-8f38-492e-80f4-cfac6e022563.png)
 
 Page 2 of 2
