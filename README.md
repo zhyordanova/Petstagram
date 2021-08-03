@@ -58,8 +58,8 @@ Throughout the whole module we are going to be creating a **complete Django proj
 
 Follow us:
 
-© SoftUni – [about.softuni.bg](https://about.softuni.bg/). Copyrighted document. Unauthorized copy, reproduction or use is not permitted.
+© SoftUni Copyrighted document. Unauthorized copy, reproduction or use is not permitted.
 
-<img width="150" alt="Software University" src="https://user-images.githubusercontent.com/66780885/127748535-b20a39b7-7efd-4b04-a18d-0b81b077d290.png">[![](RackMultipart20210731-4-1f6h91n_html_c9db196993f48ff8.png)](https://softuni.bg/)![Software University @ Facebook](https://user-images.githubusercontent.com/66780885/127748445-0c9e62f1-22f8-449f-b3e3-d6a674f3f8a3.png)[![](RackMultipart20210731-4-1f6h91n_html_94be3df36d913358.png)](https://www.facebook.com/softuni.org)![Instagram](https://user-images.githubusercontent.com/66780885/127748673-ea35097e-3a8a-486c-baa1-c9215a5e61b8.png)[![](RackMultipart20210731-4-1f6h91n_html_7e8e605369b4ad74.png)](https://www.instagram.com/softuni_org)![Software University @ Twitter](https://user-images.githubusercontent.com/66780885/127748687-266d7aa0-db20-4b2b-ab2e-702a867bdc1e.png)[![](RackMultipart20210731-4-1f6h91n_html_ff9c629b0a21eb6b.png)](https://twitter.com/SoftUni1)![Software University @ YouTube](https://user-images.githubusercontent.com/66780885/127748790-8169fa5a-e55a-4e1c-a556-34823cabb5e8.png)[![](RackMultipart20210731-4-1f6h91n_html_7db86a748da0e575.png)](https://www.youtube.com/channel/UCqvOk8tYzfRS-eDy4vs3UyA)[![](RackMultipart20210731-4-1f6h91n_html_95554caa563bbdb3.png)](https://www.linkedin.com/company/softuni/)
+![Aspose Words 9b75d108-2b97-460b-8a8b-a95e50193176 007](https://user-images.githubusercontent.com/66780885/127973631-3664e887-8f38-492e-80f4-cfac6e022563.png)
 
 Page 2 of 2
